@@ -1,0 +1,3 @@
+categories (cat_id , cat_title)
+
+products (id,titlt,qty,image,isVeg,price,discount_price,descriptio=null,status=true/false , category_id )  
